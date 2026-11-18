@@ -41,8 +41,8 @@ A modern, feature-rich digital clock web application with stunning animations, a
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/advanced-digital-clock.git
-cd advanced-digital-clock
+git clone https://github.com/Nashid-k/glassmorphic-digital-clock.git
+cd glassmorphic-digital-clock
 ```
 
 Then open `index.html` in your browser.
